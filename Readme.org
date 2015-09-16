@@ -1,18 +1,3 @@
-#+TITLE: 太上一乘海空智藏經 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:34:29.435458
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5a0009_000.txt][太上一乘海空智藏經 0]]
- - [[file:KR5a0009_001.txt][太上一乘海空智藏經 1]]
- - [[file:KR5a0009_002.txt][太上一乘海空智藏經 2]]
- - [[file:KR5a0009_003.txt][太上一乘海空智藏經 3]]
- - [[file:KR5a0009_004.txt][太上一乘海空智藏經 4]]
- - [[file:KR5a0009_005.txt][太上一乘海空智藏經 5]]
- - [[file:KR5a0009_006.txt][太上一乘海空智藏經 6]]
- - [[file:KR5a0009_007.txt][太上一乘海空智藏經 7]]
- - [[file:KR5a0009_008.txt][太上一乘海空智藏經 8]]
- - [[file:KR5a0009_009.txt][太上一乘海空智藏經 9]]
- - [[file:KR5a0009_010.txt][太上一乘海空智藏經 10]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
